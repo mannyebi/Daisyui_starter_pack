@@ -1,0 +1,14 @@
+{
+  "name": "daisyui_starter_pack",
+  "version": "1.0.0",
+  "description": "a starter pack for daisy ui",
+  "main": "tailwind.config.js",
+  "scripts": {
+  "build": "tailwindcss -i ./src/styles.css -o ./dist/styles.css",
+  "watch": "tailwindcss -i ./src/styles.css -o ./dist/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+  
+}
