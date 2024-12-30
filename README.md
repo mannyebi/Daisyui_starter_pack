@@ -9,8 +9,6 @@ Before you begin, make sure you have the following installed on your computer:
 1. **Node.js**: This is the JavaScript runtime you'll need to run the project.
    - Download and install Node.js from [nodejs.org](https://nodejs.org/).
 
-2. **A Code Editor**: We recommend using [Visual Studio Code](https://code.visualstudio.com/), but any text editor will work.
-
 ## Setting Up the Project
 
 1. **Clone the Repository**: Open your terminal or command prompt and run the following command to clone the project to your local machine:
